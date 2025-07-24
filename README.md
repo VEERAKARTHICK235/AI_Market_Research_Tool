@@ -52,7 +52,7 @@ Click “Analyze Text & Image”.
 View sentiment breakdown, top keywords, and image classification.
 
 
-##🔮 Future Improvements
+🔮 Future Improvements
 
 Fine-Tuning: Adapt sentiment and vision models for specific domains.
 
