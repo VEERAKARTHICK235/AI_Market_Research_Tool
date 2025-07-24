@@ -1,9 +1,11 @@
 fastapi
 uvicorn
-pydantic
-torch
-transformers
-scikit-learn
+gunicorn
 pandas
+scikit-learn
+transformers
+torch
+torchvision
+Pillow
 python-multipart
 tf-keras
