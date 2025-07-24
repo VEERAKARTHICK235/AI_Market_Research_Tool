@@ -29,13 +29,12 @@ This project is a powerful tool designed to analyze **product reviews and images
 ## 🧪 Running the Application
 
 1. Start the Backend Server
-cd backend
-source venv/bin/activate
+
 python -m uvicorn app.main:app --reload
 
 
-3. Start the Frontend Server
-cd frontend
+2. Start the Frontend Server
+
 npm start
 
 
@@ -52,7 +51,7 @@ Click “Analyze Text & Image”.
 View sentiment breakdown, top keywords, and image classification.
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Fine-Tuning: Adapt sentiment and vision models for specific domains.
 
