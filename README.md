@@ -30,12 +30,12 @@ This project is a powerful tool designed to analyze **product reviews and images
 
 1. Start the Backend Server
 
-python -m uvicorn app.main:app --reload
+     python -m uvicorn app.main:app --reload
 
 
 2. Start the Frontend Server
 
-npm start
+     npm start
 
 
 ## 💡 How to Use
